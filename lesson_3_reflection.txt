@@ -1,0 +1,4 @@
+¿Cuándo le gustaría usar un repositorio remoto en lugar de mantener todo su trabajo local?
+  
+    Cuando más de 2 personas participan en un mismo proyecto 
+  
