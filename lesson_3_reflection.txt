@@ -1,4 +1,8 @@
 ¿Cuándo le gustaría usar un repositorio remoto en lugar de mantener todo su trabajo local?
   
-    Cuando más de 2 personas participan en un mismo proyecto 
+    Cuando más de 2 personas participan en un mismo proyecto.
+        
+¿Por qué podría querer siempre hacer cambios manualmente en lugar de tener a Git actualizado automáticamente con su repositorio remoto?
+
+    Para tener el control de los cambios que se hacen.
   
