@@ -1,0 +1,4 @@
+¿Qué sucede cuando inicializas un repositorio? ¿Por qué necesitas hacerlo?
+
+	Se crea un directorio .git, para declarar que será un archivo git.
+
