@@ -6,3 +6,22 @@
 
     Para tener el control de los cambios que se hacen.
   
+Describe las diferencias entre bifurcacion, clonacion y ramas. Cuando usario en lugar de otro.
+
+    	La bifurcación solo se usa cuando se va a copiar un repositorio de un GitHub a otro.
+    	La clonación si es de GitHub a la computadora o de un directorio a otro.
+	Y las ramas regularmente se ocupan de forma local en la computadora.
+   
+¿Cuál es el beneficio de tener una copia del último estado conocido del control remoto almacenado localmente?
+
+	Que se pueden ver los cambios hechos y saber si no habrá un conflicto con los cambios localmente.
+
+¿Cómo colaborarías sin usar Git o GitHub? ¿Qué sería más fácil y qué sería más difícil?
+
+	Lo más factible sería compartir los archivos en alguna herramienta como dropbox peros sería más difil por que habrían muchos archivos pero sería menos
+	complicado subir los archivos.
+
+¿Cuándo le gustaría hacer cambios en una rama separada en lugar de directamente en el maestro? ¿Qué beneficios tiene cada enfoque?
+
+	En una rama separada, en la rama separada algun colaborador puede revisar mi código para ver si tengo algún error y si es directamente en el maestro 
+	si estoy en lo correcto los cambios quedarián registrados en la raíz del proyecto. 
